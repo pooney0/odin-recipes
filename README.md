@@ -1,3 +1,1 @@
-# odin-recipes
-
-Just some simple recipes off the web to try and recreate. Hope you like.(:
+Recipe pages from the web, I recreated. Hope you like.
