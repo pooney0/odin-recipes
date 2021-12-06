@@ -1,0 +1,33 @@
+html {
+    background-color: palegreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+.head {
+    text-align: center;
+    color: hsl(120, 100%, 25%);
+}
+
+.top {
+    font-style: oblique;
+}
+
+p {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.list {
+    text-align: center;
+    color: peru;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
